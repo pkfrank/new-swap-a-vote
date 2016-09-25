@@ -1,0 +1,81 @@
+States backup
+
+            <div class="row">
+                <div class="col-lg-3 col-lg-offset-1 text-center states">
+                    Swing States
+                </div>
+                <div class="col-lg-3 col-lg-offset-1 text-center states">
+                    Safe States
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-2 col-lg-offset-2">
+                    <p>
+                    Arizona <br>
+                    Colorado    <br>
+                    Florida <br>
+                    Georgia <br>
+                    Iowa    <br>
+                    Maine   <br>
+                    Michigan    <br>
+                    Minnesota   <br>
+                    Nevada  <br>
+                    New Hampshire   <br>
+                    North Carolina  <br>
+                    Ohio    <br>
+                    Pennsylvania    <br>
+                    Virginia    <br>
+                    Wisconsin   <br>                        
+                    </p>
+                </div>
+                <div class="safe">  
+                    <div class="col-lg-2">
+                        <p>
+                        Alabama <br>
+                        Alaska  <br>
+                        Arkansas    <br>
+                        California  <br>
+                        Connecticut <br>
+                        Washington D.C. <br>
+                        Delaware    <br>
+                        Hawaii  <br>
+                        Idaho   <br>
+                        Illinois    <br>
+                        Indiana <br>
+                        Kansas  <br>
+                        </p>
+                    </div>
+                    <div class="col-lg-2">
+                        <p>
+                        Kentucky    <br>
+                        Louisiana   <br>
+                        Maryland    <br>
+                        Massachusetts   <br>
+                        Mississippi <br>
+                        Missouri    <br>                    
+                        Montana <br>
+                        Nebraska    <br>
+                        New Jersey  <br>
+                        New Mexico  <br>
+                        New York    <br>
+                        North Dakota    <br>
+                        </p>
+                    </div>   
+                    <div class="col-lg-2">
+                        <p>
+                        Oklahoma    <br>
+                        Oregon  <br>
+                        Rhode Island    <br>
+                        South Carolina  <br>
+                        South Dakota    <br>
+                        Tennessee   <br>
+                        Texas   <br>
+                        Utah    <br>
+                        Vermont <br>
+                        Washington  <br>
+                        West Virginia   <br>
+                        Wyoming <br>
+                        </p>
+                    </div>
+                </div>
+            </div>
