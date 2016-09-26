@@ -38,4 +38,20 @@ p b {
 nav a {
   text-decoration: none; }
 
+.footer-above h2 {
+  font-size: 3em; }
+
+.footer-above .star-light::after {
+  background-color: #E0162B; }
+
+.faq h3 {
+  text-transform: none;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 8px; }
+
+.faq p {
+  text-align: left;
+  margin-left: 30px; }
+
 /*# sourceMappingURL=swap.css.map */
